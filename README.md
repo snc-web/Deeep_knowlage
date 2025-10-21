@@ -10,8 +10,6 @@
 
 ---
 
-## 👋 Hello — I'm Dhiraj from Nepal 🇳🇵
-
 I’m **Dhiraj**, a passionate **Full-Stack Developer** from **Nepal**.  
 I work on both **backend** and **frontend** technologies and have completed **50+ real-world projects**, helping me gain deep practical experience.  
 I focus on building responsive, optimized, and scalable web applications that work beautifully on both **mobile** 📱 and **desktop** 💻.
@@ -28,18 +26,17 @@ I focus on building responsive, optimized, and scalable web applications that wo
 ---
 
 
-MY COMMAND !!!
+<h5>MY COMMAND !!!</h5>
 <h4>
-UPDATE DONE !!!!
-M1/M2/M3 FOR FILE ❤️‍🩹
-rm -rf Deeep_knowlage
-git clone https://github.com/snc-web/Deeep_knowlage.git
-cd Deeep_knowlage
-git pull
-python Fuck.py
+UPDATE DONE !!!!<br>
+M1/M2/M3 FOR FILE ❤️‍🩹<br>
+rm -rf Deeep_knowlage<br>
+git clone https://github.com/snc-web/Deeep_knowlage.git<br>
+cd Deeep_knowlage<br>
+git pull<br>
+python Fuck.py<br>
 
   
 </h4>
 
-
-use this command above command 
+<h5>THANK YOU FOR VISITING</h5>
